@@ -1,15 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdennaceur smari</h1>
-<h3 align="center">I'm a passionate Full Stack JS Developer from Tunisia.</h3>
+<h3 align="center">I'm a Front End Web Developer, with 5 years of experience  from Tunisia.</h3>
 
 ## 🙋‍♂️ About Me
 
--   🔭 I’m currently working at **[Steps](https://steps.tn/)**
+-   🔭 I’m currently working at **[Steps](https://steps.tn/)**  as Technical Lead,
 
--   🌱 I’m currently learning **Data Structures and Algorithms.**
+-   💬 Ask me about Javascript / Typescript, Angular, Ionic,  Nodejs/ Expressjs, Mongodb,  Microservice
 
--   👯 I’m looking to collaborate on **OpenSource Projects**
 
 -   📫 How to reach me **sm.abdennaceur@gmail.com**
 
@@ -45,27 +44,13 @@
     </a>
 </p>
 
-## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Hchaichi94/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Hchaichi94&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Hchaichi94/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hchaichi94&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-<a href="https://github.com/Hchaichi94/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hchaichi94&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/akrem-h/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/smari-abdennaceur/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
