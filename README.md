@@ -11,7 +11,7 @@
 
 -   👯 I’m looking to collaborate on **OpenSource Projects**
 
--   📫 How to reach me **hchaichi-akrem@outlook.fr**
+-   📫 How to reach me **sm.abdennaceur@gmail.com**
 
 ## 🚀 Languages and Tools:
 
